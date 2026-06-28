@@ -1,4 +1,4 @@
-# VR Museum
+# VR Museum (VR Homework)
 
 An interactive browser-based virtual museum built using WebXR and modern web technologies.
 
